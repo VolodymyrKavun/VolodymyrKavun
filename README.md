@@ -1,4 +1,4 @@
-Hello, I`m Volodymir👋 
+Hello, I`m Volodymyr👋 
 
 - 🧱 I am targeting HTML5, CSS3, JS, React.
 
