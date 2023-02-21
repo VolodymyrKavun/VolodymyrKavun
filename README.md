@@ -4,4 +4,4 @@ Hello, I`m Volodymyr👋
 
 - 🕶 Fun fact: I love what I do - code. 
 
-- 📬 How to reach me: volodymirKavun1@gmail.com
+- 📬 How to reach me: volodymirkavun1@gmail.com
