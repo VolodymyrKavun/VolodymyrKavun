@@ -2,7 +2,7 @@
 
 My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=With the better daily awareness you can make better daily choices, and with better daily choices you will start seeing better daily results.&author=Robin Sharma)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## 🛠  Technologies and tools
@@ -18,7 +18,7 @@ My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
 
 ## ✉️  You can contact me at
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />(mailto:volodymirkavun1@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:volodymirkavun1@gmail.com)
 
 ## ⚡ GitHub Stats
 
