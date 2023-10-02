@@ -8,4 +8,5 @@ Front End Developer
 * ✉️  You can contact me at [volodymirkavun1@gmail.com](mailto:volodymirkavun1@gmail.com)
 * 🧠  I'm learning CSS3, JS, React, Next.js.
 * ⚡  Fun fact: I love what I do - code.
+* 🚀  I'm currently working on [Andezyan-build-site](http://andezyan-build-site.vercel.app/)
 
