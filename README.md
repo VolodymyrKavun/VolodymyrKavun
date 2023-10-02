@@ -20,11 +20,6 @@ My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:volodymirkavun1@gmail.com)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/Volod_mirr)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/volodymir-kavun/)
-
-  <a href="https://www.linkedin.com/in/volodymir-kavun/" target="_blank" rel="noopener noreferrer">
-    <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
-  </a>
-
                
 ## ⚡ GitHub Stats
 
