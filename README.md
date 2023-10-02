@@ -5,7 +5,7 @@ My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
 !(https://quotes-github-readme.vercel.app/api?quote=With the better daily awareness you can make better daily choices, and with better daily choices you will start seeing better daily results.)(https://github.com/VolodymyrKavun)
 
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I%200 can make better daily choices that will give me better daily results.)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=I can make better daily choices that will give me better daily results.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
