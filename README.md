@@ -4,6 +4,8 @@ My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🛠  Technologies and tools
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -20,7 +22,6 @@ My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:volodymirkavun1@gmail.com)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/Volod_mirr)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/volodymir-kavun/)
-<a href="viber://chat?number=%2B380636876176" target="_blank" rel="noopener noreferrer" aria-label="Viber" alt="Viber logo"><img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" alt="Viber logo" title="Viber" height="25" /></a>
                
 ## ⚡ GitHub Stats
 
