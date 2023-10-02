@@ -10,3 +10,4 @@ Front End Developer
 * ⚡  Fun fact: I love what I do - code.
 * 🚀  I'm currently working on [Andezyan-build-site](http://andezyan-build-site.vercel.app/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolodymyrKavun)](https://github.com/anuraghazra/github-readme-stats)
