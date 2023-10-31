@@ -23,6 +23,8 @@ My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+![SEO](https://img.shields.io/badge/seo-20232A?style=for-the-badge&logo=search&logoColor=61DAFB)
+
 ## ✉️  You can contact me at
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:volodymirkavun1@gmail.com)
