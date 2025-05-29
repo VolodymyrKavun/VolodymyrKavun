@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Volodymyr Kavun. I am a frontend developer living Czech Republic.
+My name is Volodymyr Kavun. I am a SEO Specialist & Front-End Developer | Focused on performance & visibility
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
