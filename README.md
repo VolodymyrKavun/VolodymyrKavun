@@ -27,6 +27,7 @@ My name is Volodymyr Kavun. I am a SEO Specialist & Front-End Developer | Focuse
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![GA4](https://img.shields.io/badge/ga4-E97606?style=for-the-badge)
+![Google Search Console](https://img.shields.io/badge/google_search_console-7583F2?style=for-the-badge)
 ![SEO](https://img.shields.io/badge/seo-20232A?style=for-the-badge&logo=search&logoColor=61DAFB)
 ![GTM](https://img.shields.io/badge/gtm-blue?style=for-the-badge)
 
