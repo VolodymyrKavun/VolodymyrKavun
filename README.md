@@ -6,10 +6,10 @@ My name is Volodymyr Kavun. I am a SEO Specialist & Front-End Developer | Focuse
 
 ## 🛠  Technologies and tools
 
-![GA4](https://img.shields.io/badge/ga4-E97606?style=for-the-badge)
-![Google Search Console](https://img.shields.io/badge/google_search_console-7583F2?style=for-the-badge)
+![GA4](https://img.shields.io/badge/ga4-E97606?style=for-the-badge&logo=googleanalytics&logoColor=f5f5f5)
+![Google Search Console](https://img.shields.io/badge/google_search_console-7583F2?style=for-the-badge&logo=googlesearchconsole&logoColor=f5f5f5)
 ![SEO](https://img.shields.io/badge/seo-20232A?style=for-the-badge&logo=search&logoColor=61DAFB)
-![GTM](https://img.shields.io/badge/gtm-blue?style=for-the-badge)
+![GTM](https://img.shields.io/badge/gtm-blue?style=for-the-badge&logo=googletagmanager)
 
 ![HTML5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
